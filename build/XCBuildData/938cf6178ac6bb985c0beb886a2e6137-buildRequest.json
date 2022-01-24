@@ -1,0 +1,94 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "636fd88cf9634a3069dd0f3e518e88a049d4e70a221b56cb93338ff348b62f99"
+    },
+    {
+      "guid" : "636fd88cf9634a3069dd0f3e518e88a081600530f82c7fcf503d6406e006a9c3"
+    },
+    {
+      "guid" : "636fd88cf9634a3069dd0f3e518e88a09116341fd56d59b59f491c8db3b4201a"
+    },
+    {
+      "guid" : "636fd88cf9634a3069dd0f3e518e88a07e8f9e3128cd6b96ea44c66cc0d56a90"
+    },
+    {
+      "guid" : "636fd88cf9634a3069dd0f3e518e88a0d1d3456a176264f8487b5cc46140048f"
+    },
+    {
+      "guid" : "636fd88cf9634a3069dd0f3e518e88a00d1d05b318646965e9ecce12ade4b0a9"
+    },
+    {
+      "guid" : "636fd88cf9634a3069dd0f3e518e88a0a771605a9d9ddf696650ac450f58a4e6"
+    },
+    {
+      "guid" : "636fd88cf9634a3069dd0f3e518e88a01ca6ecc8a6545932223f4bfcadd87ecf"
+    },
+    {
+      "guid" : "636fd88cf9634a3069dd0f3e518e88a0a3d030f74e56b303a34b79ef4ba2fbf5"
+    },
+    {
+      "guid" : "636fd88cf9634a3069dd0f3e518e88a02ac04623679bca293b7a6a2f4535c567"
+    },
+    {
+      "guid" : "636fd88cf9634a3069dd0f3e518e88a0886d9e8fec3007474ee20a3bf6050514"
+    },
+    {
+      "guid" : "636fd88cf9634a3069dd0f3e518e88a0c02dd67310932e2c417a21d5d8441ade"
+    },
+    {
+      "guid" : "636fd88cf9634a3069dd0f3e518e88a03e4c0b66fc26f97d3524b5062548c4bb"
+    }
+  ],
+  "containerPath" : "/Users/wangwenjian/dev/OpenCV-Demo/OpenCV-Demo.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/wangwenjian/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/wangwenjian/Library/Developer/Xcode/DerivedData/OpenCV-Demo-gmixgbbbdmamjfaqtjpdqyvyuwpo/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/wangwenjian/Library/Developer/Xcode/DerivedData/OpenCV-Demo-gmixgbbbdmamjfaqtjpdqyvyuwpo/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
