@@ -4,6 +4,21 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>AgeGender.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>35</integer>
+		</dict>
+		<key>AlphaBlending.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>36</integer>
+		</dict>
+		<key>AugmentedRealityWithArucoMarkers.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>37</integer>
+		</dict>
 		<key>Canny(边缘检测器).xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -13,6 +28,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>24</integer>
+		</dict>
+		<key>HOGDescriptor(人物检测).xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>32</integer>
 		</dict>
 		<key>Hit-or-Miss.xcscheme_^#shared#^_</key>
 		<dict>
@@ -52,7 +72,7 @@
 		<key>Watershed(图像分割).xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>28</integer>
+			<integer>27</integer>
 		</dict>
 		<key>calcBackProject(后投影).xcscheme_^#shared#^_</key>
 		<dict>
@@ -94,6 +114,11 @@
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
+		<key>grabCut(前景提取).xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>28</integer>
+		</dict>
 		<key>gtest.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -127,12 +152,17 @@
 		<key>pointPolygonTest(点多边形测试).xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>27</integer>
+			<integer>29</integer>
 		</dict>
 		<key>pyrUp&amp;pryDown(图像金字塔).xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>6</integer>
+		</dict>
+		<key>removeBackground.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>31</integer>
 		</dict>
 		<key>threshold(基本阈值操作).xcscheme_^#shared#^_</key>
 		<dict>
@@ -154,10 +184,25 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>分离证件照中的头像.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>33</integer>
+		</dict>
 		<key>平滑图像.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>1</integer>
+		</dict>
+		<key>提取前景.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>30</integer>
+		</dict>
+		<key>证件照背景替换.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>34</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
@@ -217,6 +262,11 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>7F406875279A9A1A0090F485</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>7F6B6E7B278C1A4400D26E71</key>
 		<dict>
 			<key>primary</key>
@@ -238,6 +288,26 @@
 			<true/>
 		</dict>
 		<key>7F6E56522783E74300756B02</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7F9A8E2F27C760A100F05D95</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7F9A8E3C27C77ABE00F05D95</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7F9A8E4A27C873F000F05D95</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7F9A8E5D27C8D5B600F05D95</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -303,6 +373,26 @@
 			<true/>
 		</dict>
 		<key>7FE3D82D2798346B003A6F04</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7FE5BF3B27BB49CF0096F962</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7FE5BF4727BC96770096F962</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7FED489D27B4B2A700B2E8D1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7FED48A827B4FE2F00B2E8D1</key>
 		<dict>
 			<key>primary</key>
 			<true/>

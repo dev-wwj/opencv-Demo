@@ -19,7 +19,7 @@ int main(int argc, const char * argv[]) {
     int scale = 1;
     int delta = 0;
     int ddepth = CV_16S;
-    String imageName("109_.jpg");
+    String imageName("146_.jpg");
     if (argc > 1) {
         imageName = argv[1];
     }

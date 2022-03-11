@@ -73,7 +73,8 @@ int main(int argc, const char * argv[]) {
         drawContours(markers, contours, static_cast<int>(i), Scalar::all(static_cast<int>(i)+1), -1);
       // Draw the background marker
     circle(markers, Point(5,5), 3, CV_RGB(255,255,255), -1);
-//    imshow("Markers", markers);
+
+  //  imshow("Markers", markers);
     
     watershed(src, markers);
     Mat mark = Mat::zeros(markers.size(), CV_8UC1);

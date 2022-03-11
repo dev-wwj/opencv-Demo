@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+HOGDescriptor(人物检测) in OpenCV-Demo, no dependencies

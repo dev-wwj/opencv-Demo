@@ -24,7 +24,7 @@ void Dilation(int, void* );
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    src = imread("136.jpg" , IMREAD_COLOR );
+    src = imread("109_.jpg" , IMREAD_COLOR );
       if( src.empty() )
         { return -1; }
       namedWindow( "Erosion Demo", WINDOW_AUTOSIZE );

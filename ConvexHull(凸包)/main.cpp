@@ -47,7 +47,7 @@ void thresh_callback(int, void*){
     for (size_t i = 0; i< contours.size(); i++) {
         Scalar color = Scalar(rng.uniform(0, 255), rng.uniform(0, 255), rng.uniform(0, 255));
         drawContours(drawing, contours, (int)i, color, 1, 8, vector<Vec4i>(), 0, Point());
-//        drawContours(drawing, hull, (int)i, color, 1, 8, vector<Vec4i>(), 0, Point());
+        drawContours(drawing, hull, (int)i, color, 1, 8, vector<Vec4i>(), 0, Point());
     }
     namedWindow("Hull demo", WINDOW_AUTOSIZE);
     imshow("Hull demo", drawing);
